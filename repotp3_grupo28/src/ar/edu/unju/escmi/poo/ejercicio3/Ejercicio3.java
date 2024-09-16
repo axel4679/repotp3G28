@@ -26,7 +26,6 @@ class Empleado {
         salario += AUMENTO_POR_MERITOS;
         System.out.printf("Nuevo salario: %.2f%n", salario);
     }
-
     public int getLegajo() {
         return legajo;
     }
